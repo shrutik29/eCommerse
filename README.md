@@ -1,5 +1,5 @@
 # e-commerce
-# Code to the Ecommerce website build by Pratik Pal
+# Code to the Ecommerce website build by Shrutik Borikar
 Welcome to our fully functional e-commerce website! Here, we offer a seamless and convenient shopping experience for all your needs. Explore our diverse range of products and find everything you're looking for.
 
 With our user-friendly interface, you can easily browse through a wide selection of products from the comfort of your home. Our website showcases detailed information, high-quality images, and prices for each item, ensuring that you have all the information you need to make informed choices.
